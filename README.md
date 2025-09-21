@@ -7,10 +7,10 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 import os
 
 # Твой API-КЛЮЧ GEMINI
-genai.configure(api_key="AIzaSyAyjZPFRlyfdGbbIrpc5FrtTHEhJOYu5tw")
+genai.configure(api_key="")
 
 # ТВОЙ ТОКЕН БОТА ИЗ BOTFATHER
-BOT_TOKEN = "8336489533:AAGNuViOVh9dmjnWJ5FGG_GqiijySFNR8xQ"
+BOT_TOKEN = ""
 
 # Выбери модель, которая у тебя работает
 model = genai.GenerativeModel('models/gemini-1.5-flash-latest')
