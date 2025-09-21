@@ -22,7 +22,7 @@ Telegram-бот, который помогает с написанием и ре
  
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone [https://github.com/ИМЯ_ТВОЕГО_ПРОФИЛЯ/ИМЯ_ТВОЕГО_РЕПОЗИТОРИЯ.git](https://github.com/ИМЯ_ТВОЕГО_ПРОФИЛЯ/ИМЯ_ТВОЕГО_РЕПОЗИТОРИЯ.git)
+    git clone [https://github.com/ArtemShakh/telegram-copilot-bot.git](https://github.com/ArtemShakh/telegram-copilot-bot.git)
     ```
 2.  **Установите зависимости:**
     ```bash
